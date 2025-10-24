@@ -77,21 +77,6 @@ A simple web app is included to allow real-time predictions.
 ![alt text](image3.jpeg)
 
 
-
-## 🤝 Contribution
-
-Contributions are welcome!
-Feel free to fork the repo, improve the model, add more disease classes, or enhance the UI.
-📄 License
-This project is licensed under the MIT License.
-
 ## 🙋‍♂️ About Me
 
-I’m Swapnil Halder, a deep learning enthusiast and web developer.
-Feel free to connect with me:
-
-
-💼 LinkedIn: https://www.linkedin.com/in/swapnilhalder/
-
-📫 Email: swapnilhalder701@gmail.com
-
+💼 LinkedIn: https://www.linkedin.com/in/razorshi-talukder-141425198/
